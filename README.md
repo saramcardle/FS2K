@@ -76,7 +76,7 @@ Start Here<br>
 [A biologist’s guide to planning and performing quantitative bioimaging experiments](https://pmc.ncbi.nlm.nih.gov/articles/PMC10298797/)<br>
 
 General<br>
-:heavy_dollar_sign:[Multiplex protein imaging in tumor biology - review](https://www.nature.com/articles/s41568-023-00657-4)<br>
+:heavy_dollar_sign: [Multiplex protein imaging in tumor biology - review](https://www.nature.com/articles/s41568-023-00657-4)<br>
 [Spatial analysis by current multiplexed imaging technologies for the molecular characterisation of cancer tissues](https://pmc.ncbi.nlm.nih.gov/articles/PMC11589153/)<br>
 [Video - Creating quality microscopy figures for manuscripts](https://youtu.be/CgfnlcxbjuI?t=2415)<br>
 [Additional video on figure creation](https://www.youtube.com/watch?v=F6ll37NOgXc)<br>
@@ -98,7 +98,7 @@ Lisa Bouker, Admin Assistant Extrordinaire!<br>
 Zeynel Savari for AV and IT help<br>
 The LJI Facilities department<br>
 <br>
-Funding: Chan Zuckerberg Iniatiative Imaging Scientist grant<br>
+Funding: Chan Zuckerberg Initiative Imaging Scientist grant<br>
 <br>
 [Research group of Pete Bankhead](https://institute-genetics-cancer.ed.ac.uk/research/research-groups-a-z/peter-bankhead-research-group)<br>
 
