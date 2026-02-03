@@ -6,6 +6,8 @@ Zbigniew Mikulski<br>
 and
 Michael Nelson of [LOCI](https://loci.wisc.edu/)
 
+- [YouTube playlist of the recordings](https://www.youtube.com/watch?v=wvi54EbP-7U&list=PLlGXRBscPbCCA1yGCThNqdYKgTPOvjigp) of our QuPath Training Course “From Samples to Knowledge”, which took place at La Jolla Institute for Immunology on February 24-25, 2025. 
+
 ## Ask questions in the image.sc forum thread!
 We ask that the majority of questions be directed to the [image.sc forum thread here](https://forum.image.sc/t/question-thread-from-samples-to-knowledge-2025/108739), where it will be easiest for all of the hosts to respond to questions and issues as they have time.<br>
 If you are interested in keeping up with the topic, make sure to create an image.sc forum profile, and set the post to "Watching" - which will send a notification email whenever there is a new post.<br><Br>
